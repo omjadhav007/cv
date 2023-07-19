@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: rgb(1, 93, 93);
+}
+img{
+    height: 20%;
+    width: 20%;
+}
+
+img:hover{
+    background-color: silver;
+}
+
+.as{
+    background-color: brown;
+}
+
+.cat{
+    background-color: skyblue;
+}
